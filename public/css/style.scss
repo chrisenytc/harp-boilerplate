@@ -1,0 +1,17 @@
+/*
+ * harp-boilerplate
+ * https://github.com/chrisenytc/harp-boilerplate
+ *
+ * Copyright (c) 2015, Christopher EnyTC
+ * Licensed under the MIT license.
+ */
+
+$font-stack: Helvetica, sans-serif;
+$primary-color: #000000;
+
+body {
+  	font: 100% $font-stack;
+  	color: $primary-color;
+  	margin-top: 88px;
+  	text-align: center;
+}

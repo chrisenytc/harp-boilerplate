@@ -1,0 +1,8 @@
+{
+  "globals": {
+	"title": "Harp Boilerplate",
+    "description"  : "A simple and easy way to make static websites with Harp.js",
+	"author": "Christopher EnyTC",
+	"ga_id": "UA-XXXXX-X"
+  }
+}
